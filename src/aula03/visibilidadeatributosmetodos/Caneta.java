@@ -1,4 +1,4 @@
-package aula02.visibilidadeatributosmetodos;
+package aula03.visibilidadeatributosmetodos;
 
 public class Caneta {
     public String modelo;

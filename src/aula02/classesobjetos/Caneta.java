@@ -1,4 +1,4 @@
-package aula01.classesobjetos;
+package aula02.classesobjetos;
 
 public class Caneta {
     String modelo;

@@ -1,4 +1,4 @@
-package Aula03.gettersetterconstructor;
+package aula04.gettersetterconstructor;
 
 public class Caneta {
     public String modelo;
