@@ -1,4 +1,4 @@
-package aula11.heranca1;
+package aula11.heranca2;
 
 public class Bolsista extends Aluno{
     private float bolsa;
