@@ -48,7 +48,7 @@ O conteúdo está organizado em pastas, onde cada uma corresponde a uma ou mais 
 ## 🚀 Tecnologias Utilizadas
 
 * **Linguagem:** [Java](https://www.java.com/)
-* **IDE:** [IntelliJ IDEA](https://www.jetbrains.com/pt-br/idea/) (utilizada por mim, mas o código é compatível com outras IDEs como Eclipse e Apache NetBeans(que foi a IDE usada no curso).)
+* **IDE:** [IntelliJ IDEA](https://www.jetbrains.com/pt-br/idea/) (utilizada por mim, mas o código é compatível com outras IDEs como Eclipse e Apache NetBeans(que foi a IDE usada no curso))
 
 ---
 
