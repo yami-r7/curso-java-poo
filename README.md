@@ -57,7 +57,7 @@ O conteúdo está organizado em pastas, onde cada uma corresponde a uma ou mais 
 Para visualizar ou executar os projetos, você pode clonar este repositório:
 
 ```
-git clone [https://github.com/yami-r7/curso-java-poo.git](https://github.com/yami-r7/curso-java-poo.git)
+git clone https://github.com/yami-r7/curso-java-poo.git
 ```
 
 Depois, basta abrir a pasta de cada aula como um projeto em sua IDE Java de preferência.
